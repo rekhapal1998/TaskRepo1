@@ -30,6 +30,7 @@ public class Practice {
 		// } else {
 		// System.out.println("Not a match");
 		// }
+		driver.close();
 	}
 
 }
